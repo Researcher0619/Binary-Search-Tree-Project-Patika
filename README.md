@@ -64,3 +64,7 @@ Binary search tree şu şekilde görünebilir:
 0 2
 
 4
+
+
+
+https://www.patika.dev/tr
